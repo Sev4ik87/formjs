@@ -1,3 +1,6 @@
+"use strict";
+
+
 const body = document.createElement("body");
 const mainCont = document.createElement("div");
 mainCont.className = "main-cont";
