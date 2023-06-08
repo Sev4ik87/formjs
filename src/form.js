@@ -41,7 +41,7 @@ dispNameInput.size = "28";
 const emailAddrInput = document.createElement("input");
 emailAddrInput.type = "email";
 emailAddrInput.className = "input";
-emailAddInput.placeholder = "Email Address";
+emailAddrInput.placeholder = "Email Address";
 emailAddrInput.size = "28";
 
 inInputCont2.appendChild(dispNameInput);
@@ -60,7 +60,7 @@ passConfInput.className = "input";
 passConfInput.placeholder = "Password Confirmation";
 passConfInput.size = "28";
 
-inInputCont3.appendChild(passwordInput);
+inInputCont3.appendChild(passInput);
 inInputCont3.appendChild(passConfInput);
 
 outInputCont.appendChild(inInputCont1);
